@@ -8,3 +8,10 @@ neural network with appropriate learning rate. Linear Regression does not give g
 indicating non-linearity in the problem. We use Keras and TensorFlow, and tried five different
 learning rate values: 1e-1, 1e-2, 1e-3, 1e-4, 1e-5, to find the optimal one for given 10_000
 training epochs.   
+
+Feature Engineering done in Bike_Rental_Feature_Engineering.ipynb
+
+Linear Regression done in Bike_Rental_LinReg.ipynb (this attempt fails badly)
+
+Training with ANN is done in other .ipynb files, with a learning rate mentioned in the name.
+Bike_Rental_ANN_1e-2.ipynb is the ultimate file, as learning rate 0.01 gives the best results
